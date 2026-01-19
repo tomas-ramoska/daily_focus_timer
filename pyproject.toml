@@ -1,0 +1,7 @@
+[project]
+name = "daily-focus-timer"
+version = "0.1.0"
+description = "A daily focus timer with Pomodoro technique and session tracking"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
